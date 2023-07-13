@@ -10,7 +10,7 @@ This project focuses on developing a user-friendly application for real-time voi
   * Install Anaconda on your computer by downloading and running the installation file from the official Anaconda website.
 
 **Step 2:** Clone the repository
-  * Command: git clone https://github.com/AasishCh/CCN_PROJECT
+  * Command: git clone 
 
 **Step 3:** Create Virtual Environment and Install Packages
   * Create a new virtual environment and install all the packages and libraries described in the "requirements.txt" file.
