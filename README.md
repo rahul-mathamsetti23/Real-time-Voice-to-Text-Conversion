@@ -1,11 +1,3 @@
-# CCN_PROJECT - Group 9
-
-# Team Members
-* Aasish Chunduri
-* Yaswanth Mareedu
-* Govind Rahul Mathamsetti
-* Manoj Kumar Reddy Janapala
-
 # INTRODUCTION (Voice-to-Text)
 This project focuses on developing a user-friendly application for real-time voice-to-text conversion and multilingual text-to-speech synthesis, leveraging advancements in AI and deep learning. Utilizing the WebRTC protocol for real-time communication, we employ Mozilla's deepspeech model for speech recognition, and Streamlit library for the interface. For multilingual text-to-speech synthesis, we use the Pywhisper model and Google Text-to-Speech (gTTS) library. The methodology includes capturing audio streams, processing them with deepspeech, displaying transcriptions in real-time, and enabling users to select a target language for speech synthesis with Pywhisper and gTTS.
 
